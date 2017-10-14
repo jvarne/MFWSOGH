@@ -4,6 +4,7 @@ Remain respectful to all
 No pornographic materials/links.
 No hate groups.
 No illcit material.
+Remain professional
 If in doubt, email Jacob@adamselite.com
 
 If you'd like to add something feel free to submit an pull request, or comment on an issue to collaborate for an file.
